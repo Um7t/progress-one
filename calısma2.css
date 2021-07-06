@@ -1,0 +1,50 @@
+.june{
+    background-color:#864794;
+    display: inline-block;
+    width: auto;
+}
+
+.table{
+    box-sizing: border-box;
+}
+
+th{
+    background-color: yellow; 
+}
+
+.gunler{
+    color: white;
+    text-align: center;
+}
+
+.ilerle{
+    color: white;
+    text-align: center;
+}
+.hafta>td{
+    color: yellow;
+    text-align: center;
+}
+
+td:hover{
+    background-color: gold;
+    
+}
+img:hover{
+    width: 200px;
+}
+
+    
+    
+    /*&::-webkit-progress-bar{
+        background: #f1f1f1;
+    }
+    &::-webkit-progress-value{
+        background: #aaa;
+    }
+    &::-moz-progress-bar{
+        background: #aaa;
+    }
+    */
+    
+
